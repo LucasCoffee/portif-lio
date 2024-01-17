@@ -1,0 +1,28 @@
+{
+  "name": "projeto-blog",
+  "version": "1.0.0",
+  "description": "blog pessoal, usando projetos prontos",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasCoffee/portif-lio.git"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasCoffee/portif-lio/issues"
+  },
+  "homepage": "https://github.com/LucasCoffee/portif-lio#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.4",
+    "nodemailer": "^6.9.8",
+    "nodemon": "^3.0.3"
+  }
+}
